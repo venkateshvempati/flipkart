@@ -51,7 +51,8 @@
   <build>
     <finalName>test-${project.artifactId}</finalName>
   </build>
-  
+  mvn -f path/to/pom.xml <goals> ...
+
   <dependencies>
     <dependency>
       <groupId>javax.faces</groupId>
