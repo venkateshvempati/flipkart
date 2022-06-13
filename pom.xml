@@ -21,7 +21,7 @@
     Oracle designates this particular file as subject to the "Classpath"
     exception as provided by Oracle in the GPL Version 2 section of the License
     file that accompanied this code.
-
+    mvn -f path/to/pom.xml <goals> ...
     Modifications:
     If applicable, add the following below the License Header, with the fields
     enclosed by brackets [] replaced by your own identifying information:
